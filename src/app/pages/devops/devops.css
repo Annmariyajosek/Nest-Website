@@ -1,0 +1,17 @@
+.hero {
+      background: linear-gradient(135deg, #0d6efd 60%, #0d6efdcc), url('https://img.icons8.com/ios/200/devops.png') no-repeat center right;
+      background-size: contain;
+      color: white;
+      padding: 100px 0;
+    }
+    .section-icon {
+      font-size: 48px;
+      color: #0d6efd;
+    }
+    .card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+    }
+    .transition {
+      transition: all 0.3s ease-in-out;
+    }

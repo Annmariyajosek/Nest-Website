@@ -1,0 +1,10 @@
+import { Routes } from '@angular/router';
+import { About } from './pages/about/about';
+import { Navbar } from './navbar/navbar';
+import { Services } from './pages/services/services';
+import { Contact } from './pages/contact/contact';
+import { Cybersecurity} from './pages/cybersecurity/cybersecurity';
+import { Cloudservices } from './pages/cloudservices/cloudservices';
+import { Dataengineering } from './pages/dataengineering/dataengineering';
+import { Devops } from './pages/devops/devops';
+export const routes: Routes = [ { path:'about',component:About },{path:'services',component:Services },{path:'contact',component:Contact },{ path:'cybersecurity',component:Cybersecurity },{ path:'dataengineering',component:Dataengineering },{ path:'cloudservices',component:Cloudservices },{ path:'devops',component:Devops }];
