@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Nest
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.0.1.
@@ -57,3 +58,6 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+=======
+# Nest-Website
+>>>>>>> a9569744a7fae355f7d3d92d8a95052c0d46084b
